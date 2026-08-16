@@ -58,6 +58,11 @@
 <img width="1254" height="1254" alt="1000184803" src="https://github.com/user-attachments/assets/39d57249-29e6-447a-8da9-3d9ad92cb796" />
 </p>
 
+<h2 align="center">ΛLΞX JΛMΞS</h2>
+<p align="center">
+<img width="1140" height="1204" alt="1000184899" src="https://github.com/user-attachments/assets/fa1dec13-2189-4e36-8ba1-61da9511bf54" />
+</p>
+
 <h2 align="center">ΛLΞX JΛMΞS ᗪEV</h2>
 <p align="center">
   <img width="460" height="460" alt="1000163669" src="https://github.com/user-attachments/assets/1e567e29-cf52-4fc1-b638-48bc4de91b57" />
