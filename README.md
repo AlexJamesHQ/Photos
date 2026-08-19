@@ -147,3 +147,7 @@
 <p align="center">
   <img width="228" height="228" alt="1000178228" src="https://github.com/user-attachments/assets/1a0d838c-ffda-436e-8127-ca0e48333318" />
 </p>
+<h2 align="center">Glowing flower</h2>
+<p align="center">
+<img width="2470" height="2470" alt="1000185686" src="https://github.com/user-attachments/assets/39c517af-4787-443c-9763-38030802650c" />
+</p>
