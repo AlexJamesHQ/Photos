@@ -63,9 +63,9 @@
 <img width="1140" height="1204" alt="1000184899" src="https://github.com/user-attachments/assets/fa1dec13-2189-4e36-8ba1-61da9511bf54" />
 </p>
 
-<h2 align="center">ΛLΞX JΛMΞS ᗪEV</h2>
+<h2 align="center">Koda</h2>
 <p align="center">
-  <img width="460" height="460" alt="1000163669" src="https://github.com/user-attachments/assets/1e567e29-cf52-4fc1-b638-48bc4de91b57" />
+ <img width="1024" height="1024" alt="1000195336" src="https://github.com/user-attachments/assets/711c78ad-1c4c-4755-a5eb-1d5b03bef788" />
 </p>
 
 <h2 align="center">ArchiveTune</h2>
