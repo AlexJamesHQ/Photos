@@ -151,3 +151,17 @@
 <p align="center">
 <img width="2470" height="2470" alt="1000185686" src="https://github.com/user-attachments/assets/39c517af-4787-443c-9763-38030802650c" />
 </p>
+
+<h2 align="center">chill.gif</h2>
+<p align="center">
+<img width="750" height="420" alt="1000199922" src="https://github.com/user-attachments/assets/b53c8cbf-e7e4-4beb-80db-8b20cef3bc74" />
+</p>
+
+<h2 align="center">cherry.gif</h2>
+<p align="center">
+<img width="688" height="340" alt="1000199921" src="https://github.com/user-attachments/assets/ca2ff9a9-eb45-4e96-860f-df73209ae711" />
+</p>
+<h2 align="center">lofi-closing.gif</h2>
+<p align="center">
+<img width="1280" height="620" alt="1000199923" src="https://github.com/user-attachments/assets/84d03182-1c6a-4ddb-aaf8-8975277d5520" />
+</p>
